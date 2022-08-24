@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LSGhartley
-- 👀 I’m interested in automation, CI/CD, the cloud
+- 👀 I’m interested in automation, CI/CD, the cloud, DevOps
 - 🌱 I’m currently learning computer science, devops, software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lesegohartley@gmail.com
